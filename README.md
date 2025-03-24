@@ -1,1 +1,1 @@
-Basic Machine Learning with scikit-learn's Iris dataset.
+Basic supervised machine learning with scikit-learn's Iris dataset.
